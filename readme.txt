@@ -1,0 +1,1 @@
+Code for Medallia translator tool
